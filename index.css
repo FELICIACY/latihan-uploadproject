@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bg.jpg");
+    background-position: 50% 10%;
+    background-size: cover;
+    overflow-x: clip;
+}
+
+.hijaumuda, .hijaumuda th {
+    background-color: #59AC77 !important;
+    color: white !important;
+}
+
+.hijautua {
+    background-color: #3A6F43 !important;
+}
+
+.pinktua {
+    background-color: #FDAAAA !important;
+}
+
+.pinkmuda {
+    background-color: #FFD5D5 !important;
+}
+
+@font-face {
+    font-family: 'Maleha';
+    src: url('Maleha.ttf');
+}
+
+button {
+    font-family: 'Merriweather-Sans';
+}
+
+h2, .modal-title {
+    font-family: Maleha;
+}
+
+th, td {
+    font-family: sans-serif;
+}
+
+.btn {
+    font-family: 'Merriweather';
+}
